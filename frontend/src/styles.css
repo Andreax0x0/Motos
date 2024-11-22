@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000; /* Fondo negro */
+    color: #ccc; /* Texto gris */
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    background-color: #222; /* Navbar gris oscuro */
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #00f; /* Links azules */
+    text-decoration: none;
+  }
+  
+  .container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #111; /* Fondo gris oscuro */
+  }
+  
+  .form input, .form select {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #222; /* Input gris oscuro */
+    color: #ccc; /* Texto gris */
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #00f; /* Botón azul */
+    color: #fff; /* Texto blanco */
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005; /* Azul más oscuro */
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list-item {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #222; /* Elementos de lista */
+  }
+  
