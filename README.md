@@ -21,8 +21,8 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 ### **1. Clonar el Repositorio**
 ```bash
-git clone https://github.com/tu-usuario/motos-crud.git
-cd motos-crud
+git clone https://github.com/Andreax0x0/Motos.git
+cd Motos
 ```
 
 ### **2. Instalar Dependencias**
